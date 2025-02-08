@@ -16,4 +16,5 @@ bikeshare.py
 ### Credits
 [It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.](https://git-scm.com/downloads)
 
+Updated project documentation to align with Udacity's style guide.
 
